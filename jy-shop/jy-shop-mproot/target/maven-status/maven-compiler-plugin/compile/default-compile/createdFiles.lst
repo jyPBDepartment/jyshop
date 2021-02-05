@@ -1,0 +1,13 @@
+com\jiyi\common\service\impl\BaseServiceImpl.class
+com\jiyi\config\MybatisConfig.class
+com\jiyi\common\service\BaseService.class
+com\jiyi\common\utils\QueryHelpPlus$1.class
+com\jiyi\common\web\param\QueryParam.class
+com\jiyi\common\web\param\OrderQueryParam.class
+com\jiyi\annotation\Query.class
+com\jiyi\common\mapper\CoreMapper.class
+com\jiyi\common\utils\QueryHelpPlus.class
+com\jiyi\annotation\Query$Type.class
+com\jiyi\config\MetaHandler.class
+com\jiyi\common\entity\BaseEntity.class
+com\jiyi\common\web\vo\Paging.class

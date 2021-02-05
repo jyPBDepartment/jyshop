@@ -1,0 +1,14 @@
+com\jiyi\gen\service\GenConfigService.class
+com\jiyi\gen\domain\GenConfig.class
+com\jiyi\gen\domain\vo\ColumnInfo.class
+com\jiyi\gen\domain\vo\TableInfo.class
+com\jiyi\gen\service\impl\GeneratorServiceImpl.class
+com\jiyi\gen\service\impl\GenConfigServiceImpl.class
+com\jiyi\gen\service\mapper\GenConfigMapper.class
+com\jiyi\gen\utils\GenUtil.class
+com\jiyi\gen\rest\GenConfigController.class
+com\jiyi\gen\rest\GeneratorController.class
+com\jiyi\gen\utils\ColUtil.class
+com\jiyi\gen\domain\ColumnConfig.class
+com\jiyi\gen\service\mapper\ColumnInfoMapper.class
+com\jiyi\gen\service\GeneratorService.class

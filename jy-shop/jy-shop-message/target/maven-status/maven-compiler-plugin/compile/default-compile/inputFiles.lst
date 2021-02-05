@@ -1,0 +1,6 @@
+E:\git\jy-shop\jy-shop-message\src\main\java\com\jiyi\message\rocketmq\MqConsumer.java
+E:\git\jy-shop\jy-shop-message\src\main\java\com\jiyi\message\redis\config\RedisConfigProperties.java
+E:\git\jy-shop\jy-shop-message\src\main\java\com\jiyi\message\redis\config\RedisListenerConfig.java
+E:\git\jy-shop\jy-shop-message\src\main\java\com\jiyi\message\redis\listener\RedisKeyExpirationListener.java
+E:\git\jy-shop\jy-shop-message\src\main\java\com\jiyi\message\redis\config\RedisKeyInitialization.java
+E:\git\jy-shop\jy-shop-message\src\main\java\com\jiyi\message\rocketmq\MqProducer.java

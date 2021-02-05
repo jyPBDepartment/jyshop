@@ -1,0 +1,12 @@
+
+package com.jiyi.modules.user.service.dto;
+
+import lombok.Data;
+
+/**
+*
+* @date 2020-05-12
+*/
+@Data
+public class YxWechatUserQueryCriteria{
+}

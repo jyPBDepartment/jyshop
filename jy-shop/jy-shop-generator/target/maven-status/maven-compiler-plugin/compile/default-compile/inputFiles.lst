@@ -1,0 +1,14 @@
+E:\git\jy-shop\jy-shop-generator\src\main\java\com\jiyi\gen\domain\vo\ColumnInfo.java
+E:\git\jy-shop\jy-shop-generator\src\main\java\com\jiyi\gen\service\mapper\ColumnInfoMapper.java
+E:\git\jy-shop\jy-shop-generator\src\main\java\com\jiyi\gen\service\mapper\GenConfigMapper.java
+E:\git\jy-shop\jy-shop-generator\src\main\java\com\jiyi\gen\domain\ColumnConfig.java
+E:\git\jy-shop\jy-shop-generator\src\main\java\com\jiyi\gen\utils\GenUtil.java
+E:\git\jy-shop\jy-shop-generator\src\main\java\com\jiyi\gen\domain\vo\TableInfo.java
+E:\git\jy-shop\jy-shop-generator\src\main\java\com\jiyi\gen\service\impl\GeneratorServiceImpl.java
+E:\git\jy-shop\jy-shop-generator\src\main\java\com\jiyi\gen\rest\GeneratorController.java
+E:\git\jy-shop\jy-shop-generator\src\main\java\com\jiyi\gen\service\GenConfigService.java
+E:\git\jy-shop\jy-shop-generator\src\main\java\com\jiyi\gen\domain\GenConfig.java
+E:\git\jy-shop\jy-shop-generator\src\main\java\com\jiyi\gen\service\impl\GenConfigServiceImpl.java
+E:\git\jy-shop\jy-shop-generator\src\main\java\com\jiyi\gen\rest\GenConfigController.java
+E:\git\jy-shop\jy-shop-generator\src\main\java\com\jiyi\gen\service\GeneratorService.java
+E:\git\jy-shop\jy-shop-generator\src\main\java\com\jiyi\gen\utils\ColUtil.java

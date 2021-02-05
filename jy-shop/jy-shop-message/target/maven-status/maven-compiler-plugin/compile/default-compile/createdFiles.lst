@@ -1,0 +1,6 @@
+com\jiyi\message\rocketmq\MqConsumer.class
+com\jiyi\message\rocketmq\MqProducer.class
+com\jiyi\message\redis\config\RedisConfigProperties.class
+com\jiyi\message\redis\listener\RedisKeyExpirationListener.class
+com\jiyi\message\redis\config\RedisKeyInitialization.class
+com\jiyi\message\redis\config\RedisListenerConfig.class

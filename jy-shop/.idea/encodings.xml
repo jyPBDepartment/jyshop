@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jy-shop-admin" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jy-shop-admin/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jy-shop-app" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jy-shop-app/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jy-shop-common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jy-shop-common/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jy-shop-generator" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jy-shop-generator/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jy-shop-logging" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jy-shop-logging/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jy-shop-mall" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jy-shop-mall/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jy-shop-message" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jy-shop-message/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jy-shop-mproot" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jy-shop-mproot/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jy-shop-shop" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jy-shop-shop/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jy-shop-tools" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jy-shop-tools/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jy-shop-weixin" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jy-shop-weixin/src/main/java" charset="UTF-8" />
+  </component>
+</project>

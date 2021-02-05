@@ -1,0 +1,11 @@
+E:\git\jy-shop\jy-shop-logging\src\main\java\com\jiyi\logging\service\dto\LogSmallDTO.java
+E:\git\jy-shop\jy-shop-logging\src\main\java\com\jiyi\logging\aop\log\Log.java
+E:\git\jy-shop\jy-shop-logging\src\main\java\com\jiyi\logging\service\impl\LogServiceImpl.java
+E:\git\jy-shop\jy-shop-logging\src\main\java\com\jiyi\logging\service\LogService.java
+E:\git\jy-shop\jy-shop-logging\src\main\java\com\jiyi\logging\service\dto\LogErrorDTO.java
+E:\git\jy-shop\jy-shop-logging\src\main\java\com\jiyi\logging\aop\log\AppLog.java
+E:\git\jy-shop\jy-shop-logging\src\main\java\com\jiyi\logging\service\dto\LogQueryCriteria.java
+E:\git\jy-shop\jy-shop-logging\src\main\java\com\jiyi\logging\service\mapper\LogMapper.java
+E:\git\jy-shop\jy-shop-logging\src\main\java\com\jiyi\logging\rest\LogController.java
+E:\git\jy-shop\jy-shop-logging\src\main\java\com\jiyi\logging\aspect\LogAspect.java
+E:\git\jy-shop\jy-shop-logging\src\main\java\com\jiyi\logging\domain\Log.java

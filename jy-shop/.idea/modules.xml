@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/jy-shop.iml" filepath="$PROJECT_DIR$/jy-shop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jy-shop-admin/jy-shop-admin.iml" filepath="$PROJECT_DIR$/jy-shop-admin/jy-shop-admin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jy-shop-app/jy-shop-app.iml" filepath="$PROJECT_DIR$/jy-shop-app/jy-shop-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jy-shop-common/jy-shop-common.iml" filepath="$PROJECT_DIR$/jy-shop-common/jy-shop-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jy-shop-generator/jy-shop-generator.iml" filepath="$PROJECT_DIR$/jy-shop-generator/jy-shop-generator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jy-shop-logging/jy-shop-logging.iml" filepath="$PROJECT_DIR$/jy-shop-logging/jy-shop-logging.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jy-shop-mall/jy-shop-mall.iml" filepath="$PROJECT_DIR$/jy-shop-mall/jy-shop-mall.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jy-shop-message/jy-shop-message.iml" filepath="$PROJECT_DIR$/jy-shop-message/jy-shop-message.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jy-shop-mproot/jy-shop-mproot.iml" filepath="$PROJECT_DIR$/jy-shop-mproot/jy-shop-mproot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jy-shop-shop/jy-shop-shop.iml" filepath="$PROJECT_DIR$/jy-shop-shop/jy-shop-shop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jy-shop-tools/jy-shop-tools.iml" filepath="$PROJECT_DIR$/jy-shop-tools/jy-shop-tools.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jy-shop-weixin/jy-shop-weixin.iml" filepath="$PROJECT_DIR$/jy-shop-weixin/jy-shop-weixin.iml" />
+    </modules>
+  </component>
+</project>

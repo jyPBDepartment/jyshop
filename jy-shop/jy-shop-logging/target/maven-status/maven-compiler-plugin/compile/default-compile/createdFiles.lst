@@ -1,0 +1,11 @@
+com\jiyi\logging\rest\LogController.class
+com\jiyi\logging\service\dto\LogErrorDTO.class
+com\jiyi\logging\service\dto\LogSmallDTO.class
+com\jiyi\logging\service\LogService.class
+com\jiyi\logging\service\mapper\LogMapper.class
+com\jiyi\logging\aop\log\AppLog.class
+com\jiyi\logging\domain\Log.class
+com\jiyi\logging\aop\log\Log.class
+com\jiyi\logging\aspect\LogAspect.class
+com\jiyi\logging\service\dto\LogQueryCriteria.class
+com\jiyi\logging\service\impl\LogServiceImpl.class

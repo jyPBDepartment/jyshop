@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="jy-shop-generator" />
+        <module name="jy-shop-admin" />
+        <module name="jy-shop-mall" />
+        <module name="jy-shop-app" />
+        <module name="jy-shop-shop" />
+        <module name="jy-shop-logging" />
+        <module name="jy-shop-weixin" />
+        <module name="jy-shop-common" />
+        <module name="jy-shop-tools" />
+        <module name="jy-shop-mproot" />
+        <module name="jy-shop-message" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="jy-shop" target="1.8" />
+      <module name="jy-shop-admin" target="1.8" />
+      <module name="jy-shop-app" target="1.8" />
+      <module name="jy-shop-common" target="1.8" />
+      <module name="jy-shop-generator" target="1.8" />
+      <module name="jy-shop-logging" target="1.8" />
+      <module name="jy-shop-mall" target="1.8" />
+      <module name="jy-shop-message" target="1.8" />
+      <module name="jy-shop-mproot" target="1.8" />
+      <module name="jy-shop-shop" target="1.8" />
+      <module name="jy-shop-tools" target="1.8" />
+      <module name="jy-shop-weixin" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="jy-shop-admin" options="-parameters" />
+      <module name="jy-shop-app" options="-parameters" />
+      <module name="jy-shop-common" options="-parameters" />
+      <module name="jy-shop-generator" options="-parameters" />
+      <module name="jy-shop-logging" options="-parameters" />
+      <module name="jy-shop-mall" options="-parameters" />
+      <module name="jy-shop-message" options="-parameters" />
+      <module name="jy-shop-mproot" options="-parameters" />
+      <module name="jy-shop-shop" options="-parameters" />
+      <module name="jy-shop-tools" options="-parameters" />
+      <module name="jy-shop-weixin" options="-parameters" />
+    </option>
+  </component>
+</project>
